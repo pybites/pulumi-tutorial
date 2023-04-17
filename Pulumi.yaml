@@ -1,0 +1,6 @@
+name: pulumi-pybites-tutorial
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: minimalistic code clinic tutorial
